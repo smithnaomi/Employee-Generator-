@@ -6,6 +6,27 @@ const inquirer = require("inquirer");
 const template = require("./src/pagetemplate");
 const fs = require("fs");
 
-const engineerQuestions = [];
+const engineerQuestions = [
+  {
+    type: "input",
+    message: "What is the employee's name?",
+    name: "name",
+  },
+  {
+    type: "input",
+    message: "What is the employee's ID?",
+    name: "id",
+  },
+  {
+    type: "input",
+    message: "What is the employee's Email?",
+    name: "email",
+  },
+  {
+    type: "input",
+    message: "What is the employee's Github username?",
+    name: "github",
+  },
+];
 const managerQuestions = [];
 const internQuestions = [];
