@@ -28,5 +28,26 @@ const engineerQuestions = [
     name: "github",
   },
 ];
-const managerQuestions = [];
+const managerQuestions = [
+  {
+    type: "input",
+    message: "What is the Manager's name?",
+    name: "name",
+  },
+  {
+    type: "input",
+    message: "What is the Manager's ID?",
+    name: "id",
+  },
+  {
+    type: "input",
+    message: "What is the Manager's Email?",
+    name: "email",
+  },
+  {
+    type: "input",
+    message: "What is the Manager's office number?",
+    name: "office",
+  },
+];
 const internQuestions = [];
