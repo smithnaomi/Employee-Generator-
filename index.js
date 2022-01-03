@@ -50,4 +50,25 @@ const managerQuestions = [
     name: "office",
   },
 ];
-const internQuestions = [];
+const internQuestions = [
+  {
+    type: "input",
+    message: "What is the Manager's name?",
+    name: "name",
+  },
+  {
+    type: "input",
+    message: "What is the Manager's ID?",
+    name: "id",
+  },
+  {
+    type: "input",
+    message: "What is the Manager's Email?",
+    name: "email",
+  },
+  {
+    type: "input",
+    message: "What is the name of Intern's school?",
+    name: "school",
+  },
+];
