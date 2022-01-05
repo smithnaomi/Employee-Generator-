@@ -12,7 +12,7 @@ test("Can name be set via these arguments?", () => {
 });
 
 test("Can set employee id via these arguments", () => {
-  const id = 222;
+  const id = 444;
   const e = new Employee("Susan Tart", 444);
   expect(e.id).toBe(id);
 });
