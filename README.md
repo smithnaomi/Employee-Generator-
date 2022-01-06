@@ -10,7 +10,7 @@ _by Naomi Smith_
 
 <!-- ![Live Demo](assets/images/WeatherDashboard.gif) -->
 
-[Live webpage](https://smithnaomi.github.io/Weather-Dashboard/)
+<!-- [Live webpage](https://smithnaomi.github.io/Weather-Dashboard/) -->
 
 ## Questions
 
