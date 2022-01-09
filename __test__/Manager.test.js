@@ -31,6 +31,6 @@ test("Can set manager office number via these arguments", () => {
 
 test("Can set manager role via these arguments", () => {
   const role = "Manager";
-  const e = new Manager("Susan Tart", 444, "tartsusan@gmail.com", 674587, role);
+  const e = new Manager("Susan Tart", 444, "tartsusan@gmail.com", 1, role);
   expect(e.role).toBe(role);
 });
