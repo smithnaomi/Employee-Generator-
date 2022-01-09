@@ -24,7 +24,7 @@ test("Can set Manager email via these arguments", () => {
 });
 
 test("Can set manager office number via these arguments", () => {
-  const officeNumber = 674587;
+  const officeNumber = 1;
   const e = new Manager("Susan Tart", 444, "tartsusan@gmail.com", officeNumber);
   expect(e.officeNumber).toBe(officeNumber);
 });
