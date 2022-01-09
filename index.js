@@ -3,7 +3,7 @@ const Manager = require("./lib/Manager");
 const Intern = require("./lib/Intern");
 const inquirer = require("inquirer");
 const fs = require("fs");
-// const render = require("./src/team");
+const render = require("./src/pagetemplate");
 
 const team = [];
 
