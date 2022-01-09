@@ -4,7 +4,7 @@ _by Naomi Smith_
 
 ## Description
 
-<!-- <p> Nothing is worse than preparing for the day and the weather has a different idea than you. User is able to use the application to check the weather in their desired city. The desired city will be presented with current weather conditions for that city. Also displayed is a five day forecast. Weather conditions are displayed with city name, date, icon representation of weather conditions, temperature, wind speed, humidity, and UV index. Cities are saved to revisit and can be cleared when user's search is done.  <p> -->
+<p> A command-line application that user input will create profiles for employee. User input is accepted and team members information is created. Information is displayed in a team member format in an HTML file. Information is displayed based off of employee's role. The displayed information provide employee name, ID, email address, office number, Github or school name.  Creating an TDD application was difficult. As a growing developer, when you have failed test after failed test; you lay back and say, "okay friend lets dance". Having to go through details in your code was reinforcing what i'm learning as well as seeing what mistakes make the difference. All test past and application working with me. I am happy to give you the Employee Generator.  <p>
 
 ## Usage
 
