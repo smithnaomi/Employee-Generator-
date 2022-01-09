@@ -10,8 +10,6 @@ _by Naomi Smith_
 
 <!-- ![Live Demo](assets/images/WeatherDashboard.gif) -->
 
-<!-- [Live webpage](https://smithnaomi.github.io/Weather-Dashboard/) -->
-
 ## Questions
 
 For any questions about the project, please contact me by either of the following links:
