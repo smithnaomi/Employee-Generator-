@@ -1,0 +1,9 @@
+* {
+  font-family: "Montserrat", sans-serif;
+}
+
+/* jumbotron properties */
+.jumbotron {
+  background-color: #023047;
+  color: white;
+}
