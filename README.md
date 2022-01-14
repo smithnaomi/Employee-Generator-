@@ -4,7 +4,7 @@ _by Naomi Smith_
 
 ## Overview
 
-<p> A command-line application that user input will create profiles for employee. User input is accepted and team members information is created. Information is displayed in a team member format in an HTML file. Information is displayed based off of employee's role. The displayed information provide employee name, ID, email address, office number, Github or school name.  Creating an TDD application was difficult. As a growing developer, when you have failed test after failed test; you lay back and say, "okay friend lets dance". Having to go through details in your code was reinforcing what i'm learning as well as seeing what mistakes make the difference. All test past and application working with me. I am happy to give you the Employee Generator.  <p>
+<p> A command-line application that user input will create profiles for employee. User input is accepted and team members information is created. Information is displayed in a team member format in an HTML file. Information is displayed based off of employee's role. The displayed information provide employee name, ID, email address, office number, Github or school name.  Creating an TDD application was difficult. As a growing developer, when you have failed test after failed test; you lay back and say, "okay friend lets dance". Having to go through details in your code was reinforcing what i'm learning as well as seeing what mistakes make the difference. All test past and application working with me, I am happy to give you the Employee Generator. <p>
 
 ## Usage
 
