@@ -8,7 +8,11 @@ _by Naomi Smith_
 
 ## Usage
 
-<!-- ![Live Demo](assets/images/WeatherDashboard.gif) -->
+![Live Demo](assets/EmployeeGenerator.gif)
+
+### Sample HTML
+
+[Webpage](http://127.0.0.1:5500/dist/team.html)
 
 ## Questions
 
