@@ -13,3 +13,14 @@
   background-color: #219ebc;
   color: white;
 }
+
+/* card properties */
+.card {
+  margin: 15px;
+  box-shadow: 2px 2px 5px rgb(63, 60, 60);
+}
+
+/* card body properties */
+.card-body {
+  font-size: 0.99rem !important;
+}
