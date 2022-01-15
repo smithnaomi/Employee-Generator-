@@ -8,7 +8,7 @@ _by Naomi Smith_
 
 ## Usage
 
-![Live Demo](assets/EmployeeGenerator.gif)
+![Live Demo](assets/EG.gif)
 
 ## Questions
 
