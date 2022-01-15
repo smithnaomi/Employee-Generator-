@@ -10,10 +10,6 @@ _by Naomi Smith_
 
 ![Live Demo](assets/EmployeeGenerator.gif)
 
-### Sample HTML
-
-[Webpage](http://127.0.0.1:5500/dist/team.html)
-
 ## Questions
 
 For any questions about the project, please contact me by either of the following links:
